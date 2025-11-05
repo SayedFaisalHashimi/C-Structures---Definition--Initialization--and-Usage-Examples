@@ -1,0 +1,2 @@
+# C Structures — Definition, Initialization, and Usage Examples
+A comprehensive collection of C programs demonstrating the use of structures for organizing and managing data efficiently. This repository includes examples of structure definition, initialization, member access, nested structures, arrays of structures, and pointer-based manipulation. Ideal for students and developers learning how to model real-world entities using C programming.
